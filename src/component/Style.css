@@ -1,0 +1,17 @@
+.background_img{
+    background-image: url('https://www.shutterstock.com/image-photo/elearning-education-internet-technology-webinar-260nw-1139995139.jpg');
+    background-size: cover;
+    height:600px;
+    border-radius: 0 ;
+    display: flex;
+    align-items: center;
+}
+
+.form_text{
+    justify-content: center;
+    
+}
+
+.courses_img{
+    border-radius: 0;
+}
