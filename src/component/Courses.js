@@ -20,7 +20,7 @@ export default function Courses() {
                         </div>
                         <div className='col-lg-4'>
                             <div class="card" style={{ width: "18rem" }}>
-                                <img class="card-img-top" src="http://127.0.0.1:5500/web.jpg" alt="Card image cap" />
+                                <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DnplGNsWGmSwTXzXgAynWWv74o6zzYM8rQFhZv8PEKE1xVPc8gCTgWMnuwd77RFQ3Ik&usqp=CAU" alt="Card image cap" />
                                 <div class="card-body card_bodyeffect">
                                     <h6>Web Development</h6>
                                     <p class="card-text">77 Courses</p>
@@ -29,7 +29,7 @@ export default function Courses() {
                         </div>
                         <div className='col-lg-4'>
                             <div class="card" style={{ width: "18rem" }}>
-                                <img class="card-img-top" src="http://127.0.0.1:5500/programming.jpg" alt="Card image cap" />
+                                <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9rYShHCpYdQsvskodVmApTsdNjgMM51QQq91gLFsq_TUQww1NmmXU94UURZ7qBZutaZ8&usqp=CAU" alt="Card image cap" />
                                 <div class="card-body card_bodyeffect">
                                     <h6>Programming Tutorials</h6>
                                     <p class="card-text">55 Courses</p>
@@ -40,7 +40,7 @@ export default function Courses() {
                     <div className='row m-3 p-3'>
                         <div className='col-lg-4'>
                             <div class="card" style={{ width: "18rem" }}>
-                                <img class="card-img-top" src="http://127.0.0.1:5500/java.jpg" alt="Card image cap" />
+                                <img class="card-img-top" src="https://www.weblineindia.com/wp-content/uploads/2021/10/java-trends.jpg" alt="Card image cap" />
                                 <div class="card-body card_bodyeffect">
                                     <h6 class="card-title">Java Technologies</h6>
                                     <p class="card-text">40 Courses</p>
@@ -49,7 +49,7 @@ export default function Courses() {
                         </div>
                         <div className='col-lg-4'>
                             <div class="card" style={{ width: "18rem" }}>
-                                <img class="card-img-top" src="http://127.0.0.1:5500/mobile.jpg" alt="Card image cap" />
+                                <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGfSMV3BoKv2Odm1Z4_h8-edh_aa45DL353n8WP4u0lt8SGKRRDEV_bmNLM8atwzQuMw&usqp=CAU" alt="Card image cap" />
                                 <div class="card-body card_bodyeffect">
                                     <h6 class="card-title">Mobile Development</h6>
                                     <p class="card-text">220 courses</p>
@@ -58,7 +58,7 @@ export default function Courses() {
                         </div>
                         <div className='col-lg-4'>
                             <div class="card" style={{ width: "18rem" }}>
-                                <img class="card-img-top" src="http://127.0.0.1:5500/Database.jpg" alt="Card image cap" />
+                                <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvu4-BQUtBnkNZ0u3M6A7sHVblKCfU3dJnILcZGyYTYLJakhHqucColCTdw650Xd5jzqo&usqp=CAU" alt="Card image cap" />
                                 <div class="card-body card_bodyeffect">
                                     <h6 class="card-title">DataBase tutorials</h6>
                                     <p class="card-text">25 courses</p>
