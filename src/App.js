@@ -3,6 +3,8 @@ import './App.css';
 import Navbar from './component/Navbar';
 import Signup from './component/Signup';
  import Courses from './component/Courses';
+import Search from './component/Search';
+import End from './component/End';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Navbar></Navbar>
       <Signup></Signup>
        <Courses></Courses> 
+       <Search></Search>
+       <End></End>
     </div>
   );
 }
